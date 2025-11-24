@@ -1,0 +1,323 @@
+/* !---X-sm Device---- */
+
+@media (max-width: 575.98px) {
+  .navbar {
+    padding: 24px 0;
+    border: none;
+  }
+  .navbar-toggler {
+    border: none;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .btns a {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+  .navbar-nav {
+    align-items: center;
+  }
+  #banner {
+    padding: 60px 0;
+  }
+  .banner-left h1 {
+    font-size: 38px;
+    line-height: 48px;
+    padding-bottom: 0px;
+  }
+  .banner-left p {
+    font-size: 15px;
+    padding-right: 0;
+    padding-bottom: 24px;
+  }
+  #service {
+    padding: 50px 0;
+  }
+  .headline p {
+    padding-right: 5px;
+    padding-bottom: 24px;
+  }
+  #portfolio {
+    padding-bottom: 50px;
+  }
+  #member {
+    padding-bottom: 60px;
+  }
+  #review .headline h3 {
+    font-size: 24px;
+  }
+  #review {
+    padding-bottom: 50px;
+  }
+  .quotation i {
+    margin-top: 0px;
+    margin-left: 200px;
+  }
+  #news {
+    padding-bottom: 24px;
+  }
+  footer {
+    padding: 50px 0;
+  }
+}
+
+/* !---SM Device---- */
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .navbar {
+    padding: 24px 0;
+    border: none;
+  }
+  .navbar-toggler {
+    border: none;
+  }
+  .navbar-toggler:focus {
+    box-shadow: none;
+  }
+  .btns a {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
+  .navbar-nav {
+    align-items: center;
+  }
+  #banner {
+    padding: 60px 0;
+  }
+  .banner-left h1 {
+    font-size: 38px;
+    line-height: 48px;
+    padding-bottom: 0px;
+  }
+  .banner-left p {
+    font-size: 15px;
+    padding-right: 0;
+    padding-bottom: 24px;
+  }
+  #service {
+    padding: 24px 0;
+  }
+  .service-item {
+    padding: 20px 20px;
+  }
+  .service-item i {
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+  }
+  .service-item h4 {
+    font-size: 16px;
+    padding-top: 16px;
+    padding-bottom: 0px;
+  }
+  p {
+    margin: 0;
+  }
+  .profile-link {
+    width: 86%;
+    left: 10px;
+    bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 10px;
+  }
+  .profile-link h5 {
+    font-size: 14px;
+    margin: 0;
+  }
+  .profile-link a {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0;
+  }
+  #portfolio {
+    padding-bottom: 50px;
+  }
+  .member-details {
+    left: 25px;
+    bottom: 10px;
+    transform: none;
+  }
+  .member-details h6 {
+    font-size: 16px;
+  }
+  .member-details p {
+    font-size: 14px;
+  }
+  #member {
+    padding-bottom: 50px;
+  }
+  .customer-review {
+    padding: 20px;
+  }
+  .name h5 {
+    margin-top: 15px;
+  }
+  .quotation i {
+    margin-top: -25px;
+    margin-left: 170px;
+  }
+  #review {
+    padding-bottom: 50px;
+  }
+}
+
+/* !---MD Device---- */
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+  #banner {
+    padding: 60px 0;
+  }
+  .banner-left h1 {
+    font-size: 36px;
+    line-height: 56px;
+    padding-bottom: 14px;
+    padding-top: 24px;
+  }
+  .banner-left p {
+    font-size: 14px;
+    padding-right: 20px;
+    padding-bottom: 16px;
+  }
+  #service {
+    padding: 60px 0;
+  }
+  .headline p {
+    font-size: 14px;
+    padding-right: 0px;
+    padding-bottom: 24px;
+  }
+  .service-item {
+    padding: 24px;
+  }
+  .service-item h4 {
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+  }
+  .service-item i {
+    width: 49px;
+    height: 49px;
+    line-height: 49px;
+  }
+  p {
+    font-size: 14px;
+    margin: 0;
+  }
+  .profile-link {
+    width: 86%;
+    left: 10px;
+    bottom: 10px;
+    padding: 5px 10px;
+    border-radius: 10px;
+  }
+  .profile-link h5 {
+    font-size: 14px;
+    margin: 0;
+  }
+  .profile-link a {
+    font-weight: 400;
+    font-size: 14px;
+    margin: 0;
+  }
+  #portfolio {
+    padding-bottom: 60px;
+  }
+  .mmbr h3 {
+    font-size: 36px;
+  }
+  #member {
+    padding-bottom: 70px;
+  }
+  #review .headline h3 {
+    font-size: 32px;
+  }
+  #review .headline p {
+    padding-right: 40px;
+  }
+  .customer-review {
+    padding: 20px;
+  }
+  .name h5 {
+    margin-top: 15px;
+  }
+  .quotation i {
+    margin-top: -25px;
+    margin-left: 140px;
+  }
+  #review {
+    padding-bottom: 60px;
+  }
+  .news-item h5 {
+    font-size: 16px;
+    margin: 0 0 0 15px;
+  }
+  .news-item p {
+    font-size: 14px;
+    margin: 15px 0 15px 15px;
+  }
+  #news {
+    padding-bottom: 70px;
+  }
+  footer {
+    padding: 50px 0;
+  }
+}
+
+/* !---LG Device---- */
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .headline p {
+    font-size: 15px;
+    padding-right: 0px;
+  }
+  .service-item h4 {
+    font-size: 22px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+  }
+  p {
+    margin: 0 0 0px;
+  }
+  .profile-link {
+    padding: 10px 20px;
+  }
+  .profile-link h5 {
+    font-size: 16px;
+    margin: 0 0 5px 0;
+  }
+  .profile-link a {
+    font-size: 14px;
+  }
+  .mmbr h3 {
+    font-size: 36px;
+  }
+  #review .headline h3 {
+    font-size: 32px;
+  }
+  .quotation i {
+    margin-top: 5px;
+    margin-left: 30px;
+  }
+  #review {
+    padding-bottom: 100px;
+  }
+}
+
+/* !---XL Device---- */
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .quotation i {
+    margin-top: 5px;
+    margin-left: 30px;
+  }
+}
+
+/* !---XXL Device---- */
+
+@media (min-width: 1399.99px) {
+  .quotation i {
+    margin-top: 5px;
+    margin-left: 30px;
+  }
+}
